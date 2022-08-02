@@ -33,7 +33,7 @@
   <a href="https://www.instagram.com/franciscopereiramtb/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href = "mailto:francisco.pereira.estiva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><br>
   
-<img align="right" alt="francisco-piccolo" height="230" width="250" src="https://cdn.discordapp.com/attachments/1004081079751290961/1004086970802249779/JkA2.gif" >
+<img align="right" alt="francisco-piccolo" height="230" width="280" src="https://cdn.discordapp.com/attachments/1004081079751290961/1004086970802249779/JkA2.gif" >
 
   
  <!--  ![Snake animation](https://github.com/franciscopereira32/franciscopereira32/blob/output/github-contribution-grid-snake.svg)-->
