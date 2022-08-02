@@ -36,6 +36,6 @@
 <img align="right" alt="francisco-piccolo" height="230" width="280" src="https://cdn.discordapp.com/attachments/1004081079751290961/1004086970802249779/JkA2.gif" >
 
   
- <!--  ![Snake animation](https://github.com/franciscopereira32/franciscopereira32/blob/output/github-contribution-grid-snake.svg)-->
+ ![Snake animation](https://github.com/franciscopereira32/franciscopereira32/blob/output/github-contribution-grid-snake.svg)
  </div>
  
