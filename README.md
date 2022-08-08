@@ -23,7 +23,8 @@
   <img align="center" alt="francisco-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="francisco-linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img align="center" alt="francisco-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img align="center" alt="francisco-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />      
+  <img align="center" alt="francisco-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+   <img align="center" alt="francisco-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   </div><br>
   
   <div> 
@@ -31,7 +32,7 @@
   <a href="https://www.instagram.com/franciscopereiramtb/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href = "mailto:francisco.pereira.estiva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><br>
   
-<img align="right" alt="francisco-piccolo" height="230" width="280" src="https://cdn.discordapp.com/attachments/1004081079751290961/1004086970802249779/JkA2.gif" >
+<img align="right" alt="francisco-piccolo" height="230" width="350" src="https://cdn.discordapp.com/attachments/1004081079751290961/1004087152277209096/CAra.gif" >
 
   
  ![Snake animation](https://github.com/franciscopereira32/franciscopereira32/blob/output/github-contribution-grid-snake.svg)
